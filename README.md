@@ -1,2 +1,3 @@
 # shop-backend
-A backend made with node and maybe express.
+
+A dating app created with the aim of practicing Angular and .Net
